@@ -1,0 +1,12 @@
+[submodule "todo_list"]
+	path = todo_list
+	url = https://github.com/MorningLit/todo_list
+[submodule "minigrep"]
+	path = minigrep
+	url = https://github.com/MorningLit/minigrep
+[submodule "guessing_game"]
+	path = guessing_game
+	url = https://github.com/MorningLit/guessing_game
+[submodule "web_server"]
+	path = web_server
+	url = https://github.com/MorningLit/web_server
